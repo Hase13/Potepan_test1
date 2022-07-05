@@ -1,0 +1,78 @@
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-size: 16px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.Firstview {
+  background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+.header {
+  padding: 20px;
+}
+
+.header-inner {
+  max-width: 1200px;
+  height: 110px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-items {
+  display: inline-flex;
+}
+
+.PotepanMimi{
+  width: 185px;
+  height: 20px;
+}
+
+.muryoucounseling {
+  color: white;
+  background-color: orange;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 90%;
+}
+
+
+.Counsekingbutton {
+  color: white;
+  background-color: orange;
+  text-decoration: none;
+  padding: 15px;
+  border-radius: 70%;
+} 
+
+.Shiryouseikyuu {
+  color: black;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+ .tyuuryaku p {
+  opacity:0.2;
+ }
+ 
+ .AboutWrapper {
+   background-color: orange;
+   padding: 44px;
+   color: white;
+ }
